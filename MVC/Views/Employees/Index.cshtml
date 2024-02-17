@@ -1,0 +1,34 @@
+﻿@model List<Employee>
+
+@{
+    var emps = Model;
+}
+
+<h2>Employees: @emps.Count</h2>
+<hr />
+
+<a asp-action="Add" class="btn btn-success">Add New Employee</a>
+
+<table class="table table-hover table-bordered m-4">
+    <tr>
+        <th>#</th>
+        <th>Name</th>
+        <th>Action</th>
+
+    </tr>
+
+    @for (int i = 0; i < emps.Count; i++)
+    {
+        <tr>
+            <td>@(i + 1)</td>
+            <td>@emps[i].Name</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@emps[i].Id" class="btn btn-primary btn-sm">Details</a>
+                <a asp-action="Delete" asp-route-id="@emps[i].Id" class="btn btn-danger btn-sm" onclick="return confirm('انت متأكد وواثق فعلا؟ 😢')">Delete</a>
+                <a asp-action="Edit" asp-route-id="@emps[i].Id" class="btn btn-info btn-sm">Edit</a>
+
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,300 @@
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\appsettings.json
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\MVC.staticwebassets.runtime.json
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\MVC.exe
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\MVC.deps.json
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\MVC.runtimeconfig.json
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\MVC.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\MVC.pdb
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Azure.Core.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Azure.Identity.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Humanizer.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.CodeDom.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.Memory.Data.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.csproj.AssemblyReference.cache
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.AssemblyInfoInputs.cache
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.AssemblyInfo.cs
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.csproj.CoreCompileInputs.cache
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cache
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cs
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC.props
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC.props
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\scopedcss\bundle\MVC.styles.css
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\scopedcss\projectbundle\MVC.bundle.scp.css
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.csproj.CopyComplete
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\refint\MVC.dll
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.pdb
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
+D:\1.ITI_Training2023Menof\Day5\MVC\obj\Debug\net7.0\ref\MVC.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\appsettings.json
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\MVC.staticwebassets.runtime.json
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\MVC.exe
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\MVC.deps.json
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\MVC.runtimeconfig.json
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\MVC.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\MVC.pdb
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Azure.Core.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Azure.Identity.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Humanizer.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.CodeDom.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.Memory.Data.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.csproj.AssemblyReference.cache
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.AssemblyInfoInputs.cache
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.AssemblyInfo.cs
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.csproj.CoreCompileInputs.cache
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cache
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cs
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC.props
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC.props
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\scopedcss\bundle\MVC.styles.css
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\scopedcss\projectbundle\MVC.bundle.scp.css
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.csproj.CopyComplete
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\refint\MVC.dll
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.pdb
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
+D:\1.ITI_Training2023Menof\Day6\MVC\obj\Debug\net7.0\ref\MVC.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\appsettings.Development.json
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\appsettings.json
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.staticwebassets.runtime.json
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.exe
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.deps.json
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.runtimeconfig.json
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.pdb
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Azure.Core.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Azure.Identity.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Humanizer.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.CodeDom.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.csproj.AssemblyReference.cache
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.AssemblyInfoInputs.cache
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.AssemblyInfo.cs
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.csproj.CoreCompileInputs.cache
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cache
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cs
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC.props
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC.props
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets.build.json
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets.development.json
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\scopedcss\bundle\MVC.styles.css
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\scopedcss\projectbundle\MVC.bundle.scp.css
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.csproj.CopyComplete
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\refint\MVC.dll
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.pdb
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
+F:\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\ref\MVC.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\appsettings.Development.json
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\appsettings.json
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.staticwebassets.runtime.json
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.exe
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.deps.json
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.runtimeconfig.json
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\MVC.pdb
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Azure.Core.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Azure.Identity.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Humanizer.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.CodeDom.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Memory.Data.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.csproj.AssemblyReference.cache
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.AssemblyInfoInputs.cache
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.AssemblyInfo.cs
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.csproj.CoreCompileInputs.cache
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cache
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cs
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets.build.json
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets.development.json
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC.props
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC.props
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\staticwebassets.pack.json
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\scopedcss\bundle\MVC.styles.css
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\scopedcss\projectbundle\MVC.bundle.scp.css
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.csproj.CopyComplete
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\refint\MVC.dll
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.pdb
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
+F:\ASP.NetCore\Summer Training ITI\MVC\Day6\Day6\MVC\obj\Debug\net7.0\ref\MVC.dll

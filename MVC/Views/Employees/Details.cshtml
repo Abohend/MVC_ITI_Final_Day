@@ -1,0 +1,17 @@
+﻿@model Employee
+
+@{
+    var emp = Model;
+}
+
+<div class="card">
+
+    <div class="card-body">
+        <h5 class="card-title">Name: @emp.Name</h5>
+        <p class="card-text text-muted">Age: @emp.Age</p>
+        <p class="card-text text-muted">Phone: @emp.Phone</p>
+        <p class="card-text text-muted">Department: @(emp?.Department?.Name ?? "Not Assign")</p>
+        <a asp-action="Index" class="btn btn-primary">Return</a>
+    </div>
+
+</div>

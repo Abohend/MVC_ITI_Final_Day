@@ -1,0 +1,15 @@
+﻿@model Department
+
+@{
+    var dept = Model;
+}
+
+<div class="card">
+
+    <div class="card-body">
+        <h5 class="card-title">Name: @dept.Name</h5>
+        <p class="card-text text-muted" >Description: @dept.Description</p>
+        <a asp-action="Index" class="btn btn-primary">Return</a>
+    </div>
+
+</div>
